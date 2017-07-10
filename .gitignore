@@ -26,5 +26,5 @@ config/database.yml
 /readyrails.box
 /Vagrantfile
 .vagrant/
-application.yml
-database.yml
+config/application.yml
+config/database.yml
